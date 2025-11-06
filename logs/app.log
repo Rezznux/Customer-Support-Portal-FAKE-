@@ -1,0 +1,3 @@
+INFO Signed in user rhys.evans@example.com ip=10.0.0.5
+WARN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJuYW1lIjoiU3VwcG9ydCBBZ2VudCIsInJvbGUiOiJhZG1pbiJ9.Bcl6cv3Q5CuViGmXOdAwjxcfolhYPY_qIeXaxNvZc1Q
+ERROR Charge failed visa=4358230471082139 cvv=848
